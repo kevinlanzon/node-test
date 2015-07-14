@@ -4,6 +4,7 @@ Node Test
 Basic jasmine-node unit test
 
 ###Technologies used
+- Node
 - JavaScript
 - Jasmine
 
