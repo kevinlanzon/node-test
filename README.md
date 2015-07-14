@@ -13,8 +13,7 @@ Basic jasmine-node unit test
 git clone git@github.com:kevinlanzon/node-test.git.git
 ```
 
-How to run tests
-----
+###How to run tests
 ```sh
 cd node-test
 $ npm test
